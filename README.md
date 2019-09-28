@@ -4,6 +4,7 @@ Hangman game web app
 Hangman is a word guessing game.
 
 scripts folder consists of javascript files.
+
 hangman.js file contains a class hangman with hangman game methods.
 
 request.js file fetches new puzzle from http://puzzle.mead.io/puzzle every time you refresh the page or click the reset button.
