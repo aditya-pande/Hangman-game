@@ -14,7 +14,9 @@ If it does not work then extract all the javascript files from the scripts folde
     <script src="/scripts/request.js"></script>
     <script src="/scripts/hangman.js"></script>
     <script src="/scripts/app.js"></script>
+    
 with
+
     <script src="request.js"></script>
     <script src="hangman.js"></script>
     <script src="app.js"></script>
